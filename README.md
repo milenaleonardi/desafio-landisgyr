@@ -23,18 +23,3 @@ This is a console application for managing energy company endpoints.
   
 - Or use `Crtl + F5` in Visual Studio
 
-## How to Run NUnit Tests
-
-### Install NUnit
-- Open the NuGet Package Manager Console in Visual Studio.
-- Run the following command to install NUnit and NUnit3TestAdapter packages:
-  
-    `Install-Package NUnit`
-  
-    `Install-Package NUnit3TestAdapter`
-
-### Run Tests
-- Open the Test Explorer window in Visual Studio.
-- Click on "Run All" to execute all NUnit tests.
-- You can also run individual tests by right-clicking on them and selecting "Run Selected Tests".
-
