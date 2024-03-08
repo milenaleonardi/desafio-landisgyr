@@ -11,7 +11,7 @@ This is a console application for managing energy company endpoints.
 - You can download the project as a ZIP file by clicking on the "Code" button and selecting "Download ZIP".
 - Alternatively, you can clone the project using Git:
   
-    `git clone https://github.com/your-username/your-project.git`
+     `git clone https://github.com/your-username/your-project.git` 
 
 ### Run the Application
 - Open a terminal or command prompt.
@@ -19,7 +19,9 @@ This is a console application for managing energy company endpoints.
 - Go to the `DesafioEntrevistaTecnica` directory.
 - Run the following command to build and run the application:
 
-    `dotnet run`
+    `dotnet run --project DesafioEntrevistaTecnica.API.csproj -s DesafioEntrevistaTecnica.API.csproj`
+  
+- Or use `Crtl + F5` in Visual Studio
 
 ## How to Run NUnit Tests
 
